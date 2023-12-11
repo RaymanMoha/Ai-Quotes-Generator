@@ -25,13 +25,3 @@ Unsplash API: Get an API key from Unsplash and integrate it into the callUnsplas
 Open index.html in a web browser or set up a local server using Node.js or Python.
 
 Enter your name, favorite activity, favorite place, and adjust the temperature slider to generate text and fetch an associated image.
-
-##Project Structure
-index.html: The main HTML file containing the user interface.
-utils.js: JavaScript file with functions to generate text, fetch images, and handle UI updates.
-Other files: Additional files required for styling or dependencies.
-##Technologies Used
-JavaScript
-OpenAI API
-Unsplash API
-HTML/CSS (for UI)
